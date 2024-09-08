@@ -1,0 +1,9 @@
+template-arb-file: app_es.arb
+arb-dir: assets/localization
+output-dir: lib/core/localization
+output-localization-file: app_localizations.dart
+output-class: S
+preferred-supported-locales: [es]
+use-deferred-loading: false
+synthetic-package: false
+nullable-getters: true
