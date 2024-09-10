@@ -1,0 +1,52 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Fin_Dall",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            
+            "toolArgs": [
+                "--dart-define",
+			    "base_url=https://api-admin.findallapp.com",
+			    "--dart-define",
+			    "google_maps_api_key=AIzaSyCjmqHjNl2sYBLF1oG1AFjo2kjanltLfLc"
+                
+            ],
+        },
+        {
+            "name": "Fin_Dall (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main.dart",
+            
+            "toolArgs": [
+                "--dart-define",
+			    "base_url=https://api-admin.findallapp.com",
+			    "--dart-define",
+			    "google_maps_api_key=AIzaSyCjmqHjNl2sYBLF1oG1AFjo2kjanltLfLc"
+            ],
+            
+            
+        },
+        {
+            "name": "Fin_Dall (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main.dart",
+            
+            "toolArgs": [
+                "--dart-define",
+			    "base_url=https://api-admin.findallapp.com",
+			    "--dart-define",
+			    "google_maps_api_key=AIzaSyCjmqHjNl2sYBLF1oG1AFjo2kjanltLfLc"
+            ],
+        }
+    ]
+}

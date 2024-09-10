@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "990064363330",
+    "project_id": "fin-dall-7c84d",
+    "storage_bucket": "fin-dall-7c84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990064363330:android:286702eec0eba56993eadb",
+        "android_client_info": {
+          "package_name": "com.findall.findall.fin_dall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990064363330-1g66e65o8bg6vb1plh21fk8lqcmrrbrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findall.findall.fin_dall",
+            "certificate_hash": "9d357d8953ed16ec6bbc2cd32a1824a542ec3c9c"
+          }
+        },
+        {
+          "client_id": "990064363330-d2ikko3d5enufektuadttvb4dmh17hb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findall.findall.fin_dall",
+            "certificate_hash": "30cef81c1842a2725bd2a1b8c2f2b58878b1c63f"
+          }
+        },
+        {
+          "client_id": "990064363330-q89gto25tcq1814mfc8mku9kml9j1srj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDMyy4jJjVkNTi5ruqnHjs9ikCYTlMsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990064363330-q89gto25tcq1814mfc8mku9kml9j1srj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990064363330-uik412k5le3sh8495ce8kfsba29j9022.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.findall.findall.finDall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

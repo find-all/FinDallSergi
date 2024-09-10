@@ -1,0 +1,7 @@
+"NSPhotoLibraryUsageDescription" = "$(PRODUCT_NAME) quisiera acceder a tu galería de fotos para seleccionar una nueva imagen de perfil";
+"NSCameraUsageDescription" = "$(PRODUCT_NAME) quisiera acceder a tu cámara para tomar una nueva foto de perfil";
+"NSLocationWhenInUseUsageDescription" =  "Necesitamos tu ubicación para poder mostrarte los lugares cercanos a ti";
+"NSLocationAlwaysUsageDescription" =  "Necesitamos tu ubicación para poder mostrarte los lugares cercanos a ti";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Necesitamos tu ubicación para poder mostrarte los lugares cercanos a ti";
+"NSSpeechRecognitionUsageDescription" = "Necesitamos acceder a tu micrófono para poder escuchar tus comandos de voz";
+"NSMicrophoneUsageDescription" = "Necesitamos acceder a tu micrófono para poder escuchar tus comandos de voz";
